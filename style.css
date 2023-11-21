@@ -1,0 +1,22 @@
+body {
+    background-image: url(img/Fundo\ editado.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;
+}
+
+.navbar {
+    background-color: rgba(34, 31, 31, 0.552);
+}
+
+.nav .nav-link.active {
+    color: #ffffff;
+}
+
+.nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar-toggler{
+    background-color: rgb(53, 53, 53);
+}
